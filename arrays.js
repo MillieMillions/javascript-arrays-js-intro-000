@@ -27,4 +27,3 @@ function destructivelyAddElementToEndOfArray(array, element) {
 }
 
   console.log(chocolateBars[3]);
-
