@@ -45,6 +45,6 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 }
 
 function removeElementFromEndOfArray(array) {
-  array.pop
+  array.pop()
   return array;
 }
