@@ -8,3 +8,15 @@ function destructivelyAddElementToBeginningOfArray (array, element) {
   array.unshift('foo');
   return array;
 }
+
+// let cookiesAndCream = ['cookies', 'cream'];
+// 
+// cookiesAndCream.unshift('ketchup');
+// 
+// let milliesShampoo = cookiesAndCream
+// 
+// let dessert = [...cookiesAndCream, 'avocado']
+
+function addElementToEndOfArray(array, element) {
+  
+}
