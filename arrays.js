@@ -10,11 +10,11 @@ function destructivelyAddElementToBeginningOfArray (array, element) {
 }
 
 // let cookiesAndCream = ['cookies', 'cream'];
-// 
+//
 // cookiesAndCream.unshift('ketchup');
-// 
+//
 // let milliesShampoo = cookiesAndCream
-// 
+//
 // let dessert = [...cookiesAndCream, 'avocado']
 
 function addElementToEndOfArray(array, element) {
